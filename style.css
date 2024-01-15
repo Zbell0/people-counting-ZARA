@@ -1,0 +1,47 @@
+body{
+    
+    background-image: url(https://static.zara.net/photos///contents/mkt/spots/aw23-sale/subhome-xmedia-launch-2-woman//w/1380/IMAGE-landscape-aw23-sale-post-fill-5f46c29a-096c-47d5-a80a-b3eaaff476ee-ro_RO@RO_0.jpg?ts=1705266831033); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Courier New', Courier, monospace; 
+    
+}
+
+.container{
+    background-color: rgba( 255, 255, 255, 0.5 );
+    min-height: 100vh;
+    text-align: center;
+}
+
+
+
+.logoimage{
+    width: 10em
+}
+
+.logoimage-ps{
+    text-align: left;
+}
+
+
+.show-box{
+    margin-top: 50px;
+}
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.total-box{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
